@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nama": "Andi Pratama",
+    "nim": "A11.2020.00001",
+    "gender": "Laki-laki",
+    "angkatan": 2020,
+    "max_sks": 24
+  },
+  {
+    "id": 2,
+    "nama": "Budi Santoso",
+    "nim": "A11.2020.00002",
+    "gender": "Laki-laki",
+    "angkatan": 2020,
+    "max_sks": 20
+  },
+  {
+    "id": 3,
+    "nama": "Citra Dewi",
+    "nim": "A11.2021.00003",
+    "gender": "Perempuan",
+    "angkatan": 2021,
+    "max_sks": 24
+  },
+  {
+    "id": 4,
+    "nama": "Dina Marlina",
+    "nim": "A11.2021.00004",
+    "gender": "Perempuan",
+    "angkatan": 2021,
+    "max_sks": 24
+  },
+  {
+    "id": 5,
+    "nama": "Eko Prasetyo",
+    "nim": "A11.2021.00005",
+    "gender": "Laki-laki",
+    "angkatan": 2021,
+    "max_sks": 24
+  },
+  {
+    "id": 6,
+    "nama": "Fitri Handayani",
+    "nim": "A11.2022.00006",
+    "gender": "Perempuan",
+    "angkatan": 2022,
+    "max_sks": 24
+  },
+  {
+    "id": 7,
+    "nama": "Gilang Ramadhan",
+    "nim": "A11.2022.00007",
+    "gender": "Laki-laki",
+    "angkatan": 2022,
+    "max_sks": 24
+  },
+  {
+    "id": 8,
+    "nama": "Hani Safitri",
+    "nim": "A11.2022.00008",
+    "gender": "Perempuan",
+    "angkatan": 2022,
+    "max_sks": 24
+  },
+  {
+    "id": 9,
+    "nama": "Irfan Hakim",
+    "nim": "A11.2022.00009",
+    "gender": "Laki-laki",
+    "angkatan": 2022,
+    "max_sks": 24
+  },
+  {
+    "id": 10,
+    "nama": "Jihan Aulia",
+    "nim": "A11.2023.00010",
+    "gender": "Perempuan",
+    "angkatan": 2023,
+    "max_sks": 24
+  },
+  {
+    "id": 11,
+    "nama": "Kurnia Sari",
+    "nim": "A11.2023.00011",
+    "gender": "Perempuan",
+    "angkatan": 2023,
+    "max_sks": 24
+  },
+  {
+    "id": 12,
+    "nama": "Lukman Hakim",
+    "nim": "A11.2023.00012",
+    "gender": "Laki-laki",
+    "angkatan": 2023,
+    "max_sks": 24
+  },
+  {
+    "id": 13,
+    "nama": "Maya Sari",
+    "nim": "A11.2023.00013",
+    "gender": "Perempuan",
+    "angkatan": 2023,
+    "max_sks": 24
+  },
+  {
+    "id": 14,
+    "nama": "Nanda Pratama",
+    "nim": "A11.2023.00014",
+    "gender": "Laki-laki",
+    "angkatan": 2023,
+    "max_sks": 24
+  },
+  {
+    "id": 15,
+    "nama": "Olivia Putri",
+    "nim": "A11.2024.00015",
+    "gender": "Perempuan",
+    "angkatan": 2024,
+    "max_sks": 24
+  }
+]

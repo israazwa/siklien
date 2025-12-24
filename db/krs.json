@@ -1,0 +1,26 @@
+[
+    {
+        "mahasiswa_id": 1,
+        "matakuliah_id": 1,
+        "semester": "Ganjil",
+        "id": 4
+    },
+    {
+        "mahasiswa_id": 3,
+        "matakuliah_id": 2,
+        "semester": "Ganjil",
+        "id": 5
+    },
+    {
+        "mahasiswa_id": 5,
+        "matakuliah_id": 3,
+        "semester": "Ganjil",
+        "id": 6
+    },
+    {
+        "mahasiswa_id": 2,
+        "matakuliah_id": 2,
+        "semester": "Ganjil",
+        "id": 7
+    }
+]

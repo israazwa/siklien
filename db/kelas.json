@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "kode": "KL-001",
+        "semester": "Ganjil",
+        "matakuliah_id": 1,
+        "nama_matakuliah": "Algoritma dan Pemrograman",
+        "dosen_id": 1,
+        "nama_dosen": "Dr. Siti Nurhaliza, M.Kom",
+        "hari": "Senin",
+        "mahasiswa_ids": [
+            1
+        ]
+    },
+    {
+        "kode": "KL-002",
+        "semester": "Ganjil",
+        "matakuliah_id": 2,
+        "nama_matakuliah": "Basis Data",
+        "dosen_id": 2,
+        "nama_dosen": "Dr. Agus Santoso, M.T",
+        "hari": "Selasa",
+        "mahasiswa_ids": [
+            3,
+            2
+        ],
+        "id": 2
+    },
+    {
+        "id": 3,
+        "kode": "KL-003",
+        "semester": "Ganjil",
+        "matakuliah_id": 3,
+        "nama_matakuliah": "Pemrograman Web",
+        "dosen_id": 3,
+        "nama_dosen": "Prof. Dr. Budi Raharjo, M.Sc",
+        "hari": "Rabu",
+        "mahasiswa_ids": [
+            5
+        ]
+    },
+    {
+        "id": 4,
+        "kode": "KL-004",
+        "semester": "Ganjil",
+        "matakuliah_id": 4,
+        "nama_matakuliah": "Struktur Data",
+        "dosen_id": 4,
+        "nama_dosen": "Rina Kusuma, S.Kom, M.Kom",
+        "hari": "Kamis",
+        "mahasiswa_ids": []
+    },
+    {
+        "kode": "Kl-888",
+        "semester": "Ganjil",
+        "matakuliah_id": "5",
+        "nama_matakuliah": "Sistem Operasi",
+        "dosen_id": 5,
+        "nama_dosen": "Dr. Eng. Hendra Wijaya, M.T",
+        "hari": "Jumat",
+        "mahasiswa_ids": [],
+        "id": 5
+    },
+    {
+        "kode": "kl55",
+        "semester": "Ganjil",
+        "matakuliah_id": "6",
+        "nama_matakuliah": "Technopreneurship",
+        "dosen_id": 8,
+        "nama_dosen": "Putri Andini, S.Kom, M.T",
+        "hari": "Selasa",
+        "mahasiswa_ids": [],
+        "id": 6
+    },
+    {
+        "kode": "kl99",
+        "semester": "Ganjil",
+        "matakuliah_id": 7,
+        "nama_matakuliah": "Pemograman Sisi Klien",
+        "dosen_id": 6,
+        "nama_dosen": "Dewi Lestar, S.T, M.Kom",
+        "hari": "Senin",
+        "mahasiswa_ids": [],
+        "id": 7
+    }
+]

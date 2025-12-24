@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "nama": "Dr. Siti Nurhaliza, M.Kom",
+    "nidn": "D11.2020.0001",
+    "pangkat": "Lektor Kepala",
+    "bidang": "Pemrograman",
+    "max_sks": 12
+  },
+  {
+    "nidn": "D11.2020.0002",
+    "nama": "Dr. Agus Santoso, M.T",
+    "id": 2
+  },
+  {
+    "id": 3,
+    "nama": "Prof. Dr. Budi Raharjo, M.Sc",
+    "nidn": "D11.2015.0003",
+    "pangkat": "Guru Besar",
+    "bidang": "Kecerdasan Buatan",
+    "max_sks": 12
+  },
+  {
+    "id": 4,
+    "nama": "Rina Kusuma, S.Kom, M.Kom",
+    "nidn": "D11.2021.0004",
+    "pangkat": "Asisten Ahli",
+    "bidang": "Jaringan Komputer",
+    "max_sks": 12
+  },
+  {
+    "id": 5,
+    "nama": "Dr. Eng. Hendra Wijaya, M.T",
+    "nidn": "D11.2018.0005",
+    "pangkat": "Lektor",
+    "bidang": "Sistem Informasi",
+    "max_sks": 12
+  },
+  {
+    "nidn": "D11.2022.0006",
+    "nama": "Dewi Lestar, S.T, M.Kom",
+    "id": 6
+  },
+  {
+    "id": 7,
+    "nama": "Dr. Ahmad Fauzi, M.Kom",
+    "nidn": "D11.2019.0007",
+    "pangkat": "Lektor Kepala",
+    "bidang": "Keamanan Siber",
+    "max_sks": 12
+  },
+  {
+    "id": 8,
+    "nama": "Putri Andini, S.Kom, M.T",
+    "nidn": "D11.2023.0008",
+    "pangkat": "Asisten Ahli",
+    "bidang": "Data Science",
+    "max_sks": 12
+  }
+]

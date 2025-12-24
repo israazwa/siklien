@@ -1,0 +1,58 @@
+[
+  {
+    "kode": "MK001",
+    "nama": "Algoritma Pemograman",
+    "sks": 3,
+    "semester": "Ganjil",
+    "dosen_id": 1,
+    "id": 1
+  },
+  {
+    "id": 2,
+    "kode": "MK002",
+    "nama": "Basis Data",
+    "sks": 3,
+    "semester": "Ganjil",
+    "dosen_id": 2
+  },
+  {
+    "id": 3,
+    "kode": "MK003",
+    "nama": "Pemrograman Web",
+    "sks": 3,
+    "semester": "Ganjil",
+    "dosen_id": 3
+  },
+  {
+    "id": 4,
+    "kode": "MK004",
+    "nama": "Struktur Data",
+    "sks": 3,
+    "semester": "Genap",
+    "dosen_id": 4
+  },
+  {
+    "id": 5,
+    "kode": "MK005",
+    "nama": "Sistem Operasi",
+    "sks": 3,
+    "semester": "Genap",
+    "dosen_id": 5
+  },
+  {
+    "kode": "MK006",
+    "nama": "Technopreneurship",
+    "sks": 2,
+    "semester": "Ganjil",
+    "dosen_id": "8",
+    "id": 6
+  },
+  {
+    "kode": "MK007",
+    "nama": "Pemograman Sisi Klien",
+    "sks": 3,
+    "semester": "Ganjil",
+    "dosen_id": "6",
+    "id": 7
+  }
+]

@@ -1,0 +1,386 @@
+{
+  "dosen": [
+    {
+      "id": 1,
+      "nama": "Dr. Siti Nurhaliza, M.Kom",
+      "nidn": "D11.2020.0001",
+      "pangkat": "Lektor Kepala",
+      "bidang": "Pemrograman",
+      "max_sks": 12
+    },
+    {
+      "nidn": "D11.2020.0002",
+      "nama": "Dr. Agus Santoso, M.T",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nama": "Prof. Dr. Budi Raharjo, M.Sc",
+      "nidn": "D11.2015.0003",
+      "pangkat": "Guru Besar",
+      "bidang": "Kecerdasan Buatan",
+      "max_sks": 12
+    },
+    {
+      "id": 4,
+      "nama": "Rina Kusuma, S.Kom, M.Kom",
+      "nidn": "D11.2021.0004",
+      "pangkat": "Asisten Ahli",
+      "bidang": "Jaringan Komputer",
+      "max_sks": 12
+    },
+    {
+      "id": 5,
+      "nama": "Dr. Eng. Hendra Wijaya, M.T",
+      "nidn": "D11.2018.0005",
+      "pangkat": "Lektor",
+      "bidang": "Sistem Informasi",
+      "max_sks": 12
+    },
+    {
+      "nidn": "D11.2022.0006",
+      "nama": "Dewi Lestar, S.T, M.Kom",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "nama": "Dr. Ahmad Fauzi, M.Kom",
+      "nidn": "D11.2019.0007",
+      "pangkat": "Lektor Kepala",
+      "bidang": "Keamanan Siber",
+      "max_sks": 12
+    },
+    {
+      "id": 8,
+      "nama": "Putri Andini, S.Kom, M.T",
+      "nidn": "D11.2023.0008",
+      "pangkat": "Asisten Ahli",
+      "bidang": "Data Science",
+      "max_sks": 12
+    }
+  ],
+  "kelas": [
+    {
+      "id": 1,
+      "kode": "KL-001",
+      "semester": "Ganjil",
+      "matakuliah_id": 1,
+      "nama_matakuliah": "Algoritma dan Pemrograman",
+      "dosen_id": 1,
+      "nama_dosen": "Dr. Siti Nurhaliza, M.Kom",
+      "hari": "Senin",
+      "mahasiswa_ids": [
+        1
+      ]
+    },
+    {
+      "kode": "KL-002",
+      "semester": "Ganjil",
+      "matakuliah_id": 2,
+      "nama_matakuliah": "Basis Data",
+      "dosen_id": 2,
+      "nama_dosen": "Dr. Agus Santoso, M.T",
+      "hari": "Selasa",
+      "mahasiswa_ids": [
+        3,
+        2
+      ],
+      "id": 2
+    },
+    {
+      "id": 4,
+      "kode": "KL-004",
+      "semester": "Ganjil",
+      "matakuliah_id": 4,
+      "nama_matakuliah": "Struktur Data",
+      "dosen_id": 4,
+      "nama_dosen": "Rina Kusuma, S.Kom, M.Kom",
+      "hari": "Kamis",
+      "mahasiswa_ids": []
+    },
+    {
+      "kode": "Kl-888",
+      "semester": "Ganjil",
+      "matakuliah_id": "5",
+      "nama_matakuliah": "Sistem Operasi",
+      "dosen_id": 5,
+      "nama_dosen": "Dr. Eng. Hendra Wijaya, M.T",
+      "hari": "Jumat",
+      "mahasiswa_ids": [],
+      "id": 5
+    },
+    {
+      "kode": "kl55",
+      "semester": "Ganjil",
+      "matakuliah_id": "6",
+      "nama_matakuliah": "Technopreneurship",
+      "dosen_id": 8,
+      "nama_dosen": "Putri Andini, S.Kom, M.T",
+      "hari": "Selasa",
+      "mahasiswa_ids": [],
+      "id": 6
+    },
+    {
+      "kode": "kl99",
+      "semester": "Ganjil",
+      "matakuliah_id": 7,
+      "nama_matakuliah": "Pemograman Sisi Klien",
+      "dosen_id": 6,
+      "nama_dosen": "Dewi Lestar, S.T, M.Kom",
+      "hari": "Senin",
+      "mahasiswa_ids": [],
+      "id": 7
+    }
+  ],
+  "krs": [
+    {
+      "mahasiswa_id": 1,
+      "matakuliah_id": 1,
+      "semester": "Ganjil",
+      "id": 4
+    },
+    {
+      "mahasiswa_id": 3,
+      "matakuliah_id": 2,
+      "semester": "Ganjil",
+      "id": 5
+    },
+    {
+      "mahasiswa_id": 5,
+      "matakuliah_id": 3,
+      "semester": "Ganjil",
+      "id": 6
+    },
+    {
+      "mahasiswa_id": 2,
+      "matakuliah_id": 2,
+      "semester": "Ganjil",
+      "id": 7
+    }
+  ],
+  "mahasiswa": [
+    {
+      "nim": "A11.2020.00002",
+      "nama": "Budi Santoso",
+      "id": 2
+    },
+    {
+      "nim": "A11.2021.00003",
+      "nama": "Citra Dewi",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nama": "Dina Marlina",
+      "nim": "A11.2021.00004",
+      "gender": "Perempuan",
+      "angkatan": 2021,
+      "max_sks": 24
+    },
+    {
+      "id": 5,
+      "nama": "Eko Prasetyo",
+      "nim": "A11.2021.00005",
+      "gender": "Laki-laki",
+      "angkatan": 2021,
+      "max_sks": 24
+    },
+    {
+      "nim": "A11.2022.00006",
+      "nama": "Fitri Handayani",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "nama": "Gilang Ramadhan",
+      "nim": "A11.2022.00007",
+      "gender": "Laki-laki",
+      "angkatan": 2022,
+      "max_sks": 24
+    },
+    {
+      "id": 8,
+      "nama": "Hani Safitri",
+      "nim": "A11.2022.00008",
+      "gender": "Perempuan",
+      "angkatan": 2022,
+      "max_sks": 24
+    },
+    {
+      "id": 9,
+      "nama": "Irfan Hakim",
+      "nim": "A11.2022.00009",
+      "gender": "Laki-laki",
+      "angkatan": 2022,
+      "max_sks": 24
+    },
+    {
+      "id": 10,
+      "nama": "Jihan Aulia",
+      "nim": "A11.2023.00010",
+      "gender": "Perempuan",
+      "angkatan": 2023,
+      "max_sks": 24
+    },
+    {
+      "id": 11,
+      "nama": "Kurnia Sari",
+      "nim": "A11.2023.00011",
+      "gender": "Perempuan",
+      "angkatan": 2023,
+      "max_sks": 24
+    },
+    {
+      "id": 12,
+      "nama": "Lukman Hakim",
+      "nim": "A11.2023.00012",
+      "gender": "Laki-laki",
+      "angkatan": 2023,
+      "max_sks": 24
+    },
+    {
+      "id": 13,
+      "nama": "Maya Sari",
+      "nim": "A11.2023.00013",
+      "gender": "Perempuan",
+      "angkatan": 2023,
+      "max_sks": 24
+    },
+    {
+      "id": 14,
+      "nama": "Nanda Pratama",
+      "nim": "A11.2023.00014",
+      "gender": "Laki-laki",
+      "angkatan": 2023,
+      "max_sks": 24
+    },
+    {
+      "nim": "A11.2022.14655",
+      "nama": "israazwaa",
+      "id": 16
+    },
+    {
+      "nim": "A11.2022.14658",
+      "nama": "Kharinzanthemas",
+      "id": 17
+    },
+    {
+      "nim": "A11.2022.14655",
+      "nama": "awawawa",
+      "id": 18
+    }
+  ],
+  "matakuliah": [
+    {
+      "kode": "MK001",
+      "nama": "Algoritma Pemograman",
+      "sks": 3,
+      "semester": "Ganjil",
+      "dosen_id": 1,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "kode": "MK002",
+      "nama": "Basis Data",
+      "sks": 3,
+      "semester": "Ganjil",
+      "dosen_id": 2
+    },
+    {
+      "id": 3,
+      "kode": "MK003",
+      "nama": "Pemrograman Web",
+      "sks": 3,
+      "semester": "Ganjil",
+      "dosen_id": 3
+    },
+    {
+      "id": 4,
+      "kode": "MK004",
+      "nama": "Struktur Data",
+      "sks": 3,
+      "semester": "Genap",
+      "dosen_id": 4
+    },
+    {
+      "id": 5,
+      "kode": "MK005",
+      "nama": "Sistem Operasi",
+      "sks": 3,
+      "semester": "Genap",
+      "dosen_id": 5
+    },
+    {
+      "kode": "MK006",
+      "nama": "Technopreneurship",
+      "sks": 2,
+      "semester": "Ganjil",
+      "dosen_id": "8",
+      "id": 6
+    },
+    {
+      "kode": "MK007",
+      "nama": "Pemograman Sisi Klien",
+      "sks": 3,
+      "semester": "Ganjil",
+      "dosen_id": "6",
+      "id": 7
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Admin 1",
+      "email": "admin@mail.com",
+      "password": "admin123",
+      "role": "admin",
+      "permission": [
+        "dashboard.page",
+        "mahasiswa.page",
+        "mahasiswa.read",
+        "mahasiswa.create",
+        "mahasiswa.update",
+        "mahasiswa.delete",
+        "dosen.page",
+        "dosen.read",
+        "dosen.create",
+        "dosen.update",
+        "dosen.delete",
+        "matakuliah.page",
+        "matakuliah.read",
+        "matakuliah.create",
+        "matakuliah.update",
+        "matakuliah.delete",
+        "kelas.page",
+        "kelas.read",
+        "kelas.create",
+        "kelas.update",
+        "kelas.delete",
+        "user.page",
+        "user.read",
+        "user.create",
+        "user.update",
+        "user.delete"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mahasiswa 1",
+      "email": "mahasiswa@mail.com",
+      "password": "mahasiswa123",
+      "role": "mahasiswa",
+      "permission": [
+        "dashboard.page",
+        "dosen.page",
+        "dosen.read",
+        "matakuliah.page",
+        "matakuliah.read",
+        "kelas.page",
+        "kelas.read",
+        "krs.page",
+        "krs.read"
+      ]
+    }
+  ]
+}
